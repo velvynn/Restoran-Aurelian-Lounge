@@ -187,7 +187,7 @@ header('Content-Type: text/html; charset=UTF-8');
         <?php endforeach; ?>
 
         <hr style="margin: 30px 0;">
-        <a href="../customer/menu.php" class="btn">← Back to Menu</a>
+        <a href="../customer/menu.php" class="btn">← Back to menu</a>
     </div>
 </body>
 </html>
